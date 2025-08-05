@@ -1,0 +1,44 @@
+Color Combination Generation Summary
+========================================
+
+Generated: 30 combinations
+Colors per combination: 4
+Total clusters: 21
+
+Size Statistics:
+  Mean size: 3032.8
+  Standard deviation: 16.6
+  Variance: 274.1
+  Size range: 3004 - 3077
+
+Combinations:
+   1. Clusters [8, 13, 8, 1] (size: 3065)
+   2. Clusters [11, 18, 6, 3] (size: 3027)
+   3. Clusters [5, 1, 4, 9] (size: 3040)
+   4. Clusters [1, 9, 4, 5] (size: 3040)
+   5. Clusters [13, 12, 6, 0] (size: 3045)
+   6. Clusters [11, 13, 20, 6] (size: 3030)
+   7. Clusters [12, 6, 0, 13] (size: 3045)
+   8. Clusters [5, 9, 1, 4] (size: 3040)
+   9. Clusters [0, 16, 16, 16] (size: 3032)
+  10. Clusters [13, 14, 3, 20] (size: 3035)
+  11. Clusters [12, 20, 0, 16] (size: 3037)
+  12. Clusters [13, 14, 6, 18] (size: 3032)
+  13. Clusters [17, 15, 15, 18] (size: 3008)
+  14. Clusters [0, 16, 16, 2] (size: 3035)
+  15. Clusters [7, 7, 10, 20] (size: 3016)
+  16. Clusters [9, 2, 14, 12] (size: 3023)
+  17. Clusters [11, 19, 2, 10] (size: 3020)
+  18. Clusters [8, 14, 8, 5] (size: 3055)
+  19. Clusters [5, 4, 8, 14] (size: 3061)
+  20. Clusters [10, 2, 19, 11] (size: 3020)
+  21. Clusters [18, 15, 15, 17] (size: 3008)
+  22. Clusters [20, 7, 7, 10] (size: 3016)
+  23. Clusters [20, 3, 3, 11] (size: 3030)
+  24. Clusters [3, 7, 12, 2] (size: 3022)
+  25. Clusters [4, 18, 3, 19] (size: 3035)
+  26. Clusters [11, 17, 7, 2] (size: 3023)
+  27. Clusters [12, 8, 9, 19] (size: 3077)
+  28. Clusters [4, 1, 9, 5] (size: 3040)
+  29. Clusters [18, 15, 17, 17] (size: 3004)
+  30. Clusters [10, 10, 19, 0] (size: 3023)
